@@ -48,11 +48,6 @@ body{
   margin:auto;
   text-align: center;
 }
-body{
-  margin: auto;
-  display:grid;
-  text-align:center;
-}
 #box{
   display: grid;
   margin: auto;
